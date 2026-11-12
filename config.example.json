@@ -1,0 +1,13 @@
+{
+  "_comment": "复制本文件为 config.local.json 后填入本机路径。config.local.json 已被 .gitignore 排除，请勿提交。所有项也都可用同名环境变量覆盖（见 README）。",
+  "src_xlsx": "D:\\path\\to\\Seerfar-Category-xxx.xlsx",
+  "out_dir": "D:\\path\\to\\output",
+  "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "state": "D:\\path\\to\\1688_storage_state.json",
+  "profile": "D:\\path\\to\\chrome_profile_1688",
+  "results": "D:\\path\\to\\results.json",
+  "imgdir": "D:\\path\\to\\sample_images",
+  "export_out": "",
+  "export_jsonl": "",
+  "export_zip": ""
+}

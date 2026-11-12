@@ -1,0 +1,32 @@
+# 本机配置（含个人路径，可能间接暴露账号目录）
+config.local.json
+.env
+
+# 登录凭证 —— 绝对不要提交
+1688_storage_state.json
+*storage_state*.json
+
+# 运行期数据 / 业务数据
+results.json
+sample_images/
+chrome_profile_1688/
+*.xlsx
+*.xls
+*.csv
+*.zip
+*.png
+*.jpg
+*.webp
+1688_login_window.png
+
+# 导出包
+复现上下文包/
+*上下文包*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
